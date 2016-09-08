@@ -1,4 +1,4 @@
-var config = require('./config.js');
+var config = require('./appconfig.js');
 var promise = require('bluebird');
 var AWS = require('aws-sdk');
 
